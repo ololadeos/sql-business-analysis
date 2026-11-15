@@ -1,0 +1,41 @@
+customer_id,customer_name,segment,region
+C001,Customer 01,Retail,Ontario
+C002,Customer 02,Healthcare,Manitoba
+C003,Customer 03,Healthcare,Manitoba
+C004,Customer 04,Education,Nova Scotia
+C005,Customer 05,Healthcare,British Columbia
+C006,Customer 06,Corporate,Quebec
+C007,Customer 07,Retail,Quebec
+C008,Customer 08,Small Business,British Columbia
+C009,Customer 09,Retail,Quebec
+C010,Customer 10,Retail,British Columbia
+C011,Customer 11,Corporate,Alberta
+C012,Customer 12,Retail,Ontario
+C013,Customer 13,Corporate,Nova Scotia
+C014,Customer 14,Education,British Columbia
+C015,Customer 15,Corporate,Alberta
+C016,Customer 16,Retail,Ontario
+C017,Customer 17,Healthcare,Alberta
+C018,Customer 18,Small Business,Ontario
+C019,Customer 19,Retail,Quebec
+C020,Customer 20,Healthcare,Quebec
+C021,Customer 21,Corporate,British Columbia
+C022,Customer 22,Small Business,Nova Scotia
+C023,Customer 23,Education,British Columbia
+C024,Customer 24,Corporate,Quebec
+C025,Customer 25,Small Business,Manitoba
+C026,Customer 26,Corporate,British Columbia
+C027,Customer 27,Corporate,Manitoba
+C028,Customer 28,Corporate,Quebec
+C029,Customer 29,Education,Manitoba
+C030,Customer 30,Retail,Manitoba
+C031,Customer 31,Retail,Nova Scotia
+C032,Customer 32,Education,British Columbia
+C033,Customer 33,Healthcare,British Columbia
+C034,Customer 34,Healthcare,Quebec
+C035,Customer 35,Retail,Quebec
+C036,Customer 36,Education,Quebec
+C037,Customer 37,Retail,Manitoba
+C038,Customer 38,Small Business,Alberta
+C039,Customer 39,Retail,Quebec
+C040,Customer 40,Retail,Ontario

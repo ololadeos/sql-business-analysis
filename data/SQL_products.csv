@@ -1,0 +1,13 @@
+product_id,product_name,category,standard_price
+P001,Standing Desk,Furniture,1299.0
+P002,Monitor,Technology,449.99
+P003,Desk Chair,Furniture,329.5
+P004,Keyboard,Technology,79.99
+P005,Wireless Mouse,Technology,49.99
+P006,Bookshelf,Furniture,249.0
+P007,Headset,Technology,119.0
+P008,Laptop Stand,Accessories,89.0
+P009,Filing Cabinet,Storage,399.0
+P010,Printer Paper,Supplies,24.0
+P011,Webcam,Technology,109.0
+P012,Desk Lamp,Accessories,69.0

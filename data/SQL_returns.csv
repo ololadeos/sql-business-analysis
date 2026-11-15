@@ -1,0 +1,13 @@
+return_id,order_id,return_date,refund_amount,reason
+R001,O0009,2026-05-12,159.98,Changed mind
+R002,O0026,2026-04-29,427.49,Changed mind
+R003,O0041,2026-04-16,469.54,Late delivery
+R004,O0068,2026-05-03,69.0,Changed mind
+R005,O0092,2026-06-13,649.5,Late delivery
+R006,O0119,2026-05-17,92.65,Changed mind
+R007,O0138,2026-07-01,302.6,Damaged
+R008,O0157,2026-05-16,1647.5,Wrong item
+R009,O0185,2026-05-09,20.4,Wrong item
+R010,O0203,2026-06-05,163.5,Late delivery
+R011,O0224,2026-06-05,1058.25,Late delivery
+R012,O0245,2026-05-30,159.98,Changed mind
